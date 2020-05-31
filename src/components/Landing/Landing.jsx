@@ -19,7 +19,7 @@ const Landing = () => {
       <div className={`white ${styles['landing-block']}`}>
         <div className="container">
           <p>
-            Comparteix les teves compres entre tots els veins
+            Comparte tus compras entre tots els veins
             i així minimitza el risc i el número de desplaçaments.
           </p>
           <p>{'El primer pas per poder disfrutar d\'aquest servei és:'}</p>
