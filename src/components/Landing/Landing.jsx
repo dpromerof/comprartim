@@ -13,7 +13,7 @@ const Landing = () => {
       <div className={`${styles.header} indigo accent-2 white-text`}>
         <div className="container">
           <h1>comp(Я)artim</h1>
-          <h5>Evitem desplaçaments, evitem contagis</h5>
+          <h5>Evitemos desplazamientos, evitem contagis</h5>
         </div>
       </div>
       <div className={`white ${styles['landing-block']}`}>
